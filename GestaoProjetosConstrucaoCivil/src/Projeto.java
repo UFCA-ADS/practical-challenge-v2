@@ -34,7 +34,6 @@ public class Projeto {
         this.requisitos = requisitos;
     }
 
-    // Método para adicionar equipe ao projeto
     public void adicionarEquipe(Equipe equipe) {
         equipes.add(equipe);
     }
