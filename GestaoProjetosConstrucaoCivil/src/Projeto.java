@@ -10,8 +10,6 @@ public class Projeto {
         this.nome = nome;
     }
 
-    // Getters e Setters
-
     public String getNome() {
         return nome;
     }
